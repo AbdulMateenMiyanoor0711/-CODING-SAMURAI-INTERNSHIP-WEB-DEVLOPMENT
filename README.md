@@ -35,6 +35,15 @@ A robust, full-stack application simulating a real-world online shopping experie
   - **Styling:** CSS Modules / Tailwind CSS
 
 ---
+📸 Screenshots & Demos
+Application Interface
+📺 Video Demonstration
+Watch the full walkthrough of the To-Do List and E-Commerce features: https://github.com/user-attachments/assets/e182ebd5-da42-4898-b092-58e549e159a3
+
+🔗 Submission Links
+GitHub Repository: Click Here
+
+LinkedIn Project Video: [https://www.linkedin.com/posts/abdul-mateen-miyanoor0711_webdevelopment-mernstack-codingsamurai-activity-7424386333651005440-1LDm?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEcJYqcBnrWfYG4bCZ7ukIpJdwLWx1f22ZQ]
 
 ## 📁 Folder Structure
 
@@ -48,29 +57,5 @@ A robust, full-stack application simulating a real-world online shopping experie
 │   ├── 📂 frontend (React)
 │   └── 📂 backend (Node/Express)
 └── README.md
----
 
-## 📸 Screenshots & Demos
 
-### Application Interface
-![Project Screenshot](https://github.com/user-attachments/assets/af98eea5-6191-4305-8203-e4278a366f82)
-
-### 📺 Video Demonstration
-Watch the full walkthrough of the To-Do List and E-Commerce features:
-https://github.com/user-attachments/assets/e182ebd5-da42-4898-b092-58e549e159a3
-
----
-
-## 🔗 Submission Links
-- **GitHub Repository:** [https://github.com/AbdulMateenMiyanoor0711/-CODING-SAMURAI-INTERNSHIP-WEB-DEVLOPMENT](https://github.com/AbdulMateenMiyanoor0711/-CODING-SAMURAI-INTERNSHIP-WEB-DEVLOPMENT)
-- **LinkedIn Project Video:** [Insert your LinkedIn post link here once posted]
-
----
-
-## 👤 Contact
-**Abdul Mateen Miyanoor**
-- **GitHub:** [@AbdulMateenMiyanoor0711](https://github.com/AbdulMateenMiyanoor0711)
-- **LinkedIn:** [Insert your LinkedIn profile link]
-
----
-*Developed as part of the Coding Samurai Internship Program.*
