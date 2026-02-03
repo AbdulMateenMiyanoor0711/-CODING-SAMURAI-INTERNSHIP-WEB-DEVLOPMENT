@@ -39,6 +39,8 @@ A robust, full-stack application simulating a real-world online shopping experie
 Application Interface
 📺 Video Demonstration
 Watch the full walkthrough of the To-Do List and E-Commerce features: https://github.com/user-attachments/assets/e182ebd5-da42-4898-b092-58e549e159a3
+<img width="1919" height="1009" alt="Screenshot 2026-02-03 151308" src="https://github.com/user-attachments/assets/08c81fb5-23ea-4d16-9830-dc6ee65cb9c9" />
+
 
 🔗 Submission Links
 GitHub Repository: Click Here
