@@ -28,4 +28,4 @@ build/
 # yarn.lock
 
 # Other
-/Web development updated.pdf
+*.pdf
